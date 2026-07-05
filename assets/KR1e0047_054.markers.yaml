@@ -19,7 +19,6 @@ markers:
 
       ', id: KR1e0047_krp_054-bkkkrnewl4}
   - {type: line-break, offset: 44, content: '', id: KR1e0047_WYG_054-1a04}
-  - {type: substitution, offset: 47, original: 晩, replacement: 晚, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3843}}
   - {type: 'kr:newline', offset: 65, content: '
 
       ', id: KR1e0047_krp_054-bkkkrnewl5}
@@ -32,7 +31,6 @@ markers:
 
       ', id: KR1e0047_krp_054-bkkkrnewl7}
   - {type: line-break, offset: 107, content: '', id: KR1e0047_WYG_054-1a07}
-  - {type: substitution, offset: 112, original: 歴, replacement: 歷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4508}}
   - {type: 'kr:newline', offset: 128, content: '
 
       ', id: KR1e0047_krp_054-bkkkrnewl8}
@@ -49,7 +47,6 @@ markers:
 
       ', id: KR1e0047_krp_054-bkkkrnewl11}
   - {type: line-break, offset: 170, content: '', id: KR1e0047_WYG_054-1b02}
-  - {type: substitution, offset: 190, original: 壊, replacement: 壞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4343}}
   - {type: 'kr:newline', offset: 191, content: '
 
       ', id: KR1e0047_krp_054-bkkkrnewl12}
@@ -86,7 +83,6 @@ markers:
 
       ', id: KR1e0047_krp_054-bkkkrnewl20}
   - {type: line-break, offset: 338, content: '', id: KR1e0047_WYG_054-2a02}
-  - {type: substitution, offset: 347, original: 疎, replacement: 疏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1306}}
   - {type: 'kr:newline', offset: 359, content: '
 
       ', id: KR1e0047_krp_054-bkkkrnewl21}
@@ -103,4 +99,4 @@ markers:
 
       ', id: KR1e0047_krp_054-bkkkrnewl24}
   back: []
-hash: sha256:9435c14e741d6219fe69b14a38925c378bb227cea7b357bd94f5f9462ee3cc23
+hash: sha256:b3616720f99bc7a5f848c737564f8c0dea2410a08c5ba9f3858a2ddbdeff468c
